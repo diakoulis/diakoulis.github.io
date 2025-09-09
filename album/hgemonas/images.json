@@ -1,0 +1,17 @@
+{
+    "albumInfo": {
+        "title": "Hgemonas",
+        "description": "Concert",
+        "date": "2025-06-20"
+    },
+    "images": [
+        "hgemonas/img1.jpg",
+        "hgemonas/img2.jpg",
+        "hgemonas/img3.jpg",
+        "hgemonas/img4.jpg",
+        "hgemonas/img5.jpg",
+        "hgemonas/img6.jpg",
+        "hgemonas/img7.jpg",
+        "hgemonas/img8.jpg"
+    ]
+}
