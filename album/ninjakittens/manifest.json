@@ -8,7 +8,7 @@
    "images": [
       {
          "thumb": "album/ninjakittens/images/thumbnails/img1.jpg",
-         "full": "album/ninjakittens/images/full/img1.jpg",
+         "full": "album/ninjakittens/images/full/img1.jpg"
       },
       {
          "thumb": "album/ninjakittens/images/thumbnails/img2.jpg",
@@ -20,7 +20,7 @@
       },
       {
          "thumb": "album/ninjakittens/images/thumbnails/img4.jpg",
-         "full": "album/ninjakittens/images/full/img4.jpg",
+         "full": "album/ninjakittens/images/full/img4.jpg"
       },
       {
          "thumb": "album/ninjakittens/images/thumbnails/img5.jpg",

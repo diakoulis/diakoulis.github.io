@@ -8,7 +8,7 @@
    "images": [
       {
          "thumb": "album/schoolwave/images/thumbnails/img1.jpg",
-         "full": "album/schoolwave/images/full/img1.jpg",
+         "full": "album/schoolwave/images/full/img1.jpg"
       },
       {
          "thumb": "album/schoolwave/images/thumbnails/img2.jpg",
@@ -20,7 +20,7 @@
       },
       {
          "thumb": "album/schoolwave/images/thumbnails/img4.jpg",
-         "full": "album/schoolwave/images/full/img4.jpg",
+         "full": "album/schoolwave/images/full/img4.jpg"
       },
       {
          "thumb": "album/schoolwave/images/thumbnails/img5.jpg",

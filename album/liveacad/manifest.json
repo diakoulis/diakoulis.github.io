@@ -8,7 +8,7 @@
    "images": [
       {
          "thumb": "album/liveacad/images/thumbnails/img1.jpg",
-         "full": "album/liveacad/images/full/img1.jpg",
+         "full": "album/liveacad/images/full/img1.jpg"
       },
       {
          "thumb": "album/liveacad/images/thumbnails/img2.jpg",
@@ -20,7 +20,7 @@
       },
       {
          "thumb": "album/liveacad/images/thumbnails/img4.jpg",
-         "full": "album/liveacad/images/full/img4.jpg",
+         "full": "album/liveacad/images/full/img4.jpg"
       },
       {
          "thumb": "album/liveacad/images/thumbnails/img5.jpg",
