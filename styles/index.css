@@ -9,6 +9,7 @@ main .album {
 
 main .album .info {
    padding: 0.5rem 1rem 1rem;
+   text-align: center;
 }
 
 main .album .info .title {
