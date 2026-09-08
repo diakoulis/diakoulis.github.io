@@ -1,0 +1,32 @@
+main {
+   display: flex;
+   flex-direction: column;
+   gap: calc(var(--space) / 2); /* ================================================== */
+}
+
+main .album {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+   margin: 0 auto calc(var(--space) / 2); /* ================================================== */
+   gap: calc(var(--space) / 4); /* ================================================== */
+   width: min(80%, 45rem);
+}
+
+main .album #album-title {
+   font-size: 2rem;
+   font-weight: 500;
+   line-height: 1;
+}
+
+#show-more-btn {
+   display: none;
+   margin: 0 auto;
+   padding: 12px 32px;
+   border-radius: 25px;
+   font-size: 1rem;
+   font-weight: 600;
+   color: #fff;
+   background-color: #000;
+}

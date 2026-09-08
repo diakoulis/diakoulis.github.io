@@ -1,0 +1,24 @@
+main .album {
+   display: flex;
+   flex-direction: column;
+   overflow: hidden;
+   border-radius: 12px;
+   background-color: var(--background-color);
+   cursor: pointer;
+}
+
+main .album .info {
+   padding: 0.5rem 1rem 1rem;
+}
+
+main .album .info .title {
+   margin-bottom: 0.25rem;
+   font-size: calc(var(--regular-font-size) * 1.1);
+   font-weight: 500;
+}
+
+main .album .info .date {
+   font-size: var(--small-font-size);
+   line-height: 1;
+   opacity: 0.6;
+}

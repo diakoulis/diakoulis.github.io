@@ -1,0 +1,35 @@
+:root {
+   --masonry-grid-gap: 2rem;
+   --masonry-margin-grid: calc(var(--masonry-grid-gap)*4); /* ================================================== */
+}
+
+.grid {
+   display: flex;
+   margin: 0 var(--masonry-margin-grid);
+   gap: var(--masonry-grid-gap)
+}
+
+.grid .column {
+   display: flex;
+   flex: 1;
+   flex-direction: column;
+   gap: var(--masonry-grid-gap);
+}
+
+.grid .column img {
+   cursor: pointer;
+}
+
+@media (max-width: 1024px) {
+   :root {
+      --masonry-grid-gap: 1.5rem;
+      --masonry-margin-grid: calc(var(--masonry-grid-gap)*2);
+   }
+}
+
+@media (max-width: 600px) {
+   :root {
+      --masonry-grid-gap: 1rem;
+      --masonry-margin-grid: var(--masonry-grid-gap);
+   }
+}
