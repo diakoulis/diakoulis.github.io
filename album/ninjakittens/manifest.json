@@ -1,10 +1,10 @@
 {
    "albumInfo": {
-      "title": “Ninja Kittens”,
+      "title": "Ninja Kittens",
       "description": "Ninja Kittens full live coverage",
       "date": "April 25, 2026"
    },
-   "cover": "album/ninja kittens/images/thumbnails/img2.jpg",
+   "cover": "album/ninjakittens/images/thumbnails/img2.jpg",
    "images": [
       {
          "thumb": "album/ninjakittens/images/thumbnails/img1.jpg",
