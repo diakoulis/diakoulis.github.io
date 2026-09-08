@@ -1,0 +1,30 @@
+{
+   "albumInfo": {
+      "title": “Schoolwave Festival”,
+      "description": "Schoolwave Festival coverage for Zitav and Olsee",
+      "date": "July 3, 2026"
+   },
+   "cover": "album/schoolwave/images/thumbnails/img2.jpg",
+   "images": [
+      {
+         "thumb": "album/schoolwave/images/thumbnails/img1.jpg",
+         "full": "album/schoolwave/images/full/img1.jpg",
+      },
+      {
+         "thumb": "album/schoolwave/images/thumbnails/img2.jpg",
+         "full": "album/schoolwave/images/full/img2.jpg"
+      },
+      {
+         "thumb": "album/schoolwave/images/thumbnails/img3.jpg",
+         "full": "album/schoolwave/images/full/img3.jpg"
+      },
+      {
+         "thumb": "album/schoolwave/images/thumbnails/img4.jpg",
+         "full": "album/schoolwave/images/full/img4.jpg",
+      },
+      {
+         "thumb": "album/schoolwave/images/thumbnails/img5.jpg",
+         "full": "album/schoolwave/images/full/img5.jpg"
+      }
+   ]
+}

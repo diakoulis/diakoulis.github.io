@@ -1,0 +1,30 @@
+{
+   "albumInfo": {
+      "title": “Ninja Kittens”,
+      "description": "Ninja Kittens full live coverage",
+      "date": "April 25, 2026"
+   },
+   "cover": "album/ninja kittens/images/thumbnails/img2.jpg",
+   "images": [
+      {
+         "thumb": "album/ninjakittens/images/thumbnails/img1.jpg",
+         "full": "album/ninjakittens/images/full/img1.jpg",
+      },
+      {
+         "thumb": "album/ninjakittens/images/thumbnails/img2.jpg",
+         "full": "album/ninjakittens/images/full/img2.jpg"
+      },
+      {
+         "thumb": "album/ninjakittens/images/thumbnails/img3.jpg",
+         "full": "album/ninjakittens/images/full/img3.jpg"
+      },
+      {
+         "thumb": "album/ninjakittens/images/thumbnails/img4.jpg",
+         "full": "album/ninjakittens/images/full/img4.jpg",
+      },
+      {
+         "thumb": "album/ninjakittens/images/thumbnails/img5.jpg",
+         "full": "album/ninjakittens/images/full/img5.jpg"
+      }
+   ]
+}

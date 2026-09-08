@@ -1,0 +1,30 @@
+{
+   "albumInfo": {
+      "title": “Saturday night session”,
+      "description": "Liquor store & summer movie live for Hermano with special guests Zitav, Koume, Abismo, Scuf, Mose",
+      "date": "June 27, 2026"
+   },
+   "cover": "album/liveacad/images/thumbnails/img2.jpg",
+   "images": [
+      {
+         "thumb": "album/liveacad/images/thumbnails/img1.jpg",
+         "full": "album/liveacad/images/full/img1.jpg",
+      },
+      {
+         "thumb": "album/liveacad/images/thumbnails/img2.jpg",
+         "full": "album/liveacad/images/full/img2.jpg"
+      },
+      {
+         "thumb": "album/liveacad/images/thumbnails/img3.jpg",
+         "full": "album/liveacad/images/full/img3.jpg"
+      },
+      {
+         "thumb": "album/liveacad/images/thumbnails/img4.jpg",
+         "full": "album/liveacad/images/full/img4.jpg",
+      },
+      {
+         "thumb": "album/liveacad/images/thumbnails/img5.jpg",
+         "full": "album/liveacad/images/full/img5.jpg"
+      }
+   ]
+}
