@@ -4,27 +4,27 @@
       "description": "Ninja Kittens full live coverage",
       "date": "April 25, 2026"
    },
-   "cover": "album/ninjakittens/images/thumbnails/img2.jpg",
+   "cover": "album/ninjakittens/images/thumbnails/img2.webp",
    "images": [
       {
-         "thumb": "album/ninjakittens/images/thumbnails/img1.jpg",
-         "full": "album/ninjakittens/images/full/img1.jpg"
+         "thumb": "album/ninjakittens/images/thumbnails/img1.webp",
+         "full": "album/ninjakittens/images/full/img1.webp"
       },
       {
-         "thumb": "album/ninjakittens/images/thumbnails/img2.jpg",
-         "full": "album/ninjakittens/images/full/img2.jpg"
+         "thumb": "album/ninjakittens/images/thumbnails/img2.webp",
+         "full": "album/ninjakittens/images/full/img2.webp"
       },
       {
-         "thumb": "album/ninjakittens/images/thumbnails/img3.jpg",
-         "full": "album/ninjakittens/images/full/img3.jpg"
+         "thumb": "album/ninjakittens/images/thumbnails/img3.webp",
+         "full": "album/ninjakittens/images/full/img3.webp"
       },
       {
-         "thumb": "album/ninjakittens/images/thumbnails/img4.jpg",
-         "full": "album/ninjakittens/images/full/img4.jpg"
+         "thumb": "album/ninjakittens/images/thumbnails/img4.webp",
+         "full": "album/ninjakittens/images/full/img4.webp"
       },
       {
-         "thumb": "album/ninjakittens/images/thumbnails/img5.jpg",
-         "full": "album/ninjakittens/images/full/img5.jpg"
+         "thumb": "album/ninjakittens/images/thumbnails/img5.webp",
+         "full": "album/ninjakittens/images/full/img5.webp"
       }
    ]
 }
