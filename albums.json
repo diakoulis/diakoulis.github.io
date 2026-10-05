@@ -1,6 +1,26 @@
 [
-   "hgemonas",
-   "liveacad",
-   "ninjakittens",
-   "schoolwave"
+   {
+      "id": "hgemonas",
+      "title": "HGEMONA$",
+      "date": "June 20, 2025",
+      "cover": "album/hgemonas/images/low/img2.webp"
+   },
+   {
+      "id": "liveacad",
+      "title": "Saturday night session",
+      "date": "June 27, 2026",
+      "cover": "album/liveacad/images/low/img4.webp"
+   },
+   {
+      "id": "ninjakittens",
+      "title": "Ninja Kittens",
+      "date": "April 25, 2026",
+      "cover": "album/ninjakittens/images/low/img2.webp"
+   },
+   {
+      "id": "schoolwave",
+      "title": "Schoolwave Festival",
+      "date": "July 3, 2026",
+      "cover": "album/schoolwave/images/low/img2.webp"
+   }  
 ]

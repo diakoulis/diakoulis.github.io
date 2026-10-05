@@ -1,30 +1,29 @@
 {
-   "albumInfo": {
+   "meta": {
       "title": "Schoolwave Festival",
       "description": "Schoolwave Festival coverage for Zitav and Olsee",
       "date": "July 3, 2026"
    },
-   "cover": "album/schoolwave/images/thumbnails/img2.webp",
    "images": [
       {
-         "thumb": "album/schoolwave/images/thumbnails/img1.webp",
-         "full": "album/schoolwave/images/full/img1.webp"
+         "thumb": "album/schoolwave/images/low/img1.webp",
+         "full": "album/schoolwave/images/high/img1.webp"
       },
       {
-         "thumb": "album/schoolwave/images/thumbnails/img2.webp",
-         "full": "album/schoolwave/images/full/img2.webp"
+         "thumb": "album/schoolwave/images/low/img2.webp",
+         "full": "album/schoolwave/images/high/img2.webp"
       },
       {
-         "thumb": "album/schoolwave/images/thumbnails/img3.webp",
-         "full": "album/schoolwave/images/full/img3.webp"
+         "thumb": "album/schoolwave/images/low/img3.webp",
+         "full": "album/schoolwave/images/high/img3.webp"
       },
       {
-         "thumb": "album/schoolwave/images/thumbnails/img4.webp",
-         "full": "album/schoolwave/images/full/img4.webp"
+         "thumb": "album/schoolwave/images/low/img4.webp",
+         "full": "album/schoolwave/images/high/img4.webp"
       },
       {
-         "thumb": "album/schoolwave/images/thumbnails/img5.webp",
-         "full": "album/schoolwave/images/full/img5.webp"
+         "thumb": "album/schoolwave/images/low/img5.webp",
+         "full": "album/schoolwave/images/high/img5.webp"
       }
    ]
 }
