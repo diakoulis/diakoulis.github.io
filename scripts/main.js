@@ -1,3 +1,14 @@
+document.addEventListener("DOMContentLoaded", () => {
+   const path = window.location.pathname;
+
+   if (path.includes("about")) {
+      document.title = "Diakoulis | About";
+   } else if (path.includes("contact")) {
+      document.title = "Diakoulis | Contact";
+   }
+});
+
+
 const structures = {
    header: `
 <h1 class="name">
